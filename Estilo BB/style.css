@@ -1,0 +1,63 @@
+body {
+    background-color: bisque;
+    text-align: justify;
+    font-family: 'Verdana', Tahoma, sans-serif;
+}
+
+#menu {
+    text-align: center;
+    font-family: 'Georgia', Times, serif;
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+a:hover {
+    color: red;
+    font-size: 20px;
+}
+
+.ft {
+    height: 300px;
+    width: 350px;
+}
+
+.img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+ font-family: 'Impact', Arial , sans-serif;
+ text-align: center;
+}
+.linkPP{
+    text-decoration: none;
+    font-size: 20px;
+    color: #553366;
+}
+.linkPX{
+    text-decoration: none;
+    font-size: 20px;
+    color: orangered;
+}
+.linkF{
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+}
+
+#rodapé{
+    text-align: center;
+    font-size: 14px;
+    color: rebeccapurple;
+}
